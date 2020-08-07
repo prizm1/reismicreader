@@ -32,7 +32,7 @@
     <org.codehaus.jettison.jettison.version>1.1</org.codehaus.jettison.jettison.version>
     <org.ccil.cowan.tagsoup.tagsoup.version>1.2.1</org.ccil.cowan.tagsoup.tagsoup.version>
     <com.googlecode.owasp-java-html-sanitizer.owasp-java-html-sanitizer.version>r156</com.googlecode.owasp-java-html-sanitizer.owasp-java-html-sanitizer.version>
-    <org.apache.lucene.version>4.2.0</org.apache.lucene.version>
+    <org.apache.lucene.version>8.6.0</org.apache.lucene.version>
     <jgoodies.forms.version>1.0.5</jgoodies.forms.version>
     <org.bitlet.weupnp.version>0.1.2</org.bitlet.weupnp.version>
     <javax.servlet.javax.servlet-api.version>4.0.1</javax.servlet.javax.servlet-api.version>
