@@ -37,7 +37,7 @@
     <org.bitlet.weupnp.version>0.1.2</org.bitlet.weupnp.version>
     <javax.servlet.javax.servlet-api.version>4.0.1</javax.servlet.javax.servlet-api.version>
     <com.sun.grizzly.version>1.9.18-m</com.sun.grizzly.version>
-    <org.hibernate.hibernate.version>4.2.21.Final</org.hibernate.hibernate.version>
+    <org.hibernate.hibernate.version>5.4.24.Final</org.hibernate.hibernate.version>
     <joda-time.joda-time.version>2.2</joda-time.joda-time.version>
     <org.codehaus.jackson.jackson.version>1.7.1</org.codehaus.jackson.jackson.version>
     <org.eclipse.jetty.jetty-server.version>9.4.12.v20180830</org.eclipse.jetty.jetty-server.version>
