@@ -26,7 +26,7 @@
     <org.hsqldb.hsqldb.version>2.3.0</org.hsqldb.hsqldb.version>
     <org.postgresql.postgresql.version>9.4.1212.jre7</org.postgresql.postgresql.version>
     <com.sun.jersey.version>1.19.4</com.sun.jersey.version>
-    <org.mindrot.jbcrypt>0.3m</org.mindrot.jbcrypt>
+    <org.mindrot.jbcrypt>0.4</org.mindrot.jbcrypt>
     <org.subethamail.subethasmtp.version>3.1.6</org.subethamail.subethasmtp.version>
     <org.subethamail.subethasmtp-wiser.version>1.2</org.subethamail.subethasmtp-wiser.version>
     <org.codehaus.jettison.jettison.version>1.1</org.codehaus.jettison.jettison.version>
