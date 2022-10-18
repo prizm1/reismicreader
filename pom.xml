@@ -29,7 +29,7 @@
     <org.mindrot.jbcrypt>0.3m</org.mindrot.jbcrypt>
     <org.subethamail.subethasmtp.version>3.1.6</org.subethamail.subethasmtp.version>
     <org.subethamail.subethasmtp-wiser.version>1.2</org.subethamail.subethasmtp-wiser.version>
-    <org.codehaus.jettison.jettison.version>1.1</org.codehaus.jettison.jettison.version>
+    <org.codehaus.jettison.jettison.version>1.5.1</org.codehaus.jettison.jettison.version>
     <org.ccil.cowan.tagsoup.tagsoup.version>1.2.1</org.ccil.cowan.tagsoup.tagsoup.version>
     <com.googlecode.owasp-java-html-sanitizer.owasp-java-html-sanitizer.version>r156</com.googlecode.owasp-java-html-sanitizer.owasp-java-html-sanitizer.version>
     <org.apache.lucene.version>4.2.0</org.apache.lucene.version>
